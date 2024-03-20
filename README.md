@@ -15,6 +15,6 @@
 - A Full-Stack Developer & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development.
-- I'm currently looking for opportunities. I would love to learn and contribute in any and every possible way.
+- I'm currently looking for opportunities. I would love to learn and contribute in any and every possible way .
 
 ❤️ from PasTor
